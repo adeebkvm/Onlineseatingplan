@@ -1,0 +1,7 @@
+openpyxl
+streamlit
+pandas
+numpy
+weasyprint
+xlsxwriter
+xhtml2pdf
